@@ -5,13 +5,9 @@ Repository for solved exercises of [advent of code 2016](http://adventofcode.com
 
 -------
 
-## Ex. 1
-Advent of Code[About][AoC++][Events][Settings][Log Out]ldpcosta 20*
- {'year':2016}[Calendar][Leaderboard][Stats][Sponsors]
-Our sponsors help make AoC possible:
-eSpark Learning - Solve the greatest puzzle of our day - transform education
+### Ex. 1
 
-### --- Day 1: No Time for a Taxicab ---
+#### --- Day 1: No Time for a Taxicab ---
 
 Santa's sleigh uses a very high-precision clock to guide its movements, and the clock's oscillator is regulated by stars. Unfortunately, the stars have been stolen... by the Easter Bunny. To save Christmas, Santa needs you to retrieve all fifty stars by December 25th.
 
@@ -31,7 +27,7 @@ R5, L5, R5, R3 leaves you 12 blocks away.
 How many blocks away is Easter Bunny HQ?
 
 
-### --- Part Two ---
+#### --- Part Two ---
 
 Then, you notice the instructions continue on the back of the Recruiting Document. Easter Bunny HQ is actually at the first location you visit twice.
 
